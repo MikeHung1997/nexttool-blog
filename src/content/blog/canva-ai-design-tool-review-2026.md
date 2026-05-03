@@ -10,7 +10,6 @@ affiliateUrlPending: true
 draft: true
 ---
 
-# Stop Spending Hours on Design: How Canva AI Does It in Minutes
 
 You have a product to promote, a post to publish, or a pitch deck due tomorrow. You open a blank canvas and immediately feel the dread — because design is not your job, but it is your problem.
 
